@@ -17,12 +17,11 @@ Due to time constraints, we are not always able to respond as quickly as we woul
 
 The following commands can be used to perform the initial checkout of DockerAlpineJDK8:
 
-    git clone git://github.com/dunkelfrosch/docker-confluence.git
+    git clone git://github.com/dunkelfrosch/docker-alpine-jdk8.git
     cd docker-confluence
 
 ## Reporting issues
 
 Please use the most specific issue tracker to search for existing tickets and to open new tickets:
-* [Issue Tracker](https://github.com/dunkelfrosch/docker-confluence/issues)
-
+* [Issue Tracker](https://github.com/dunkelfrosch/docker-alpine-jdk8/issues)
 
